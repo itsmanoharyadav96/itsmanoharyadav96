@@ -10,14 +10,14 @@ and continuously learning modern DevOps practices.
 
 <p align="left">
 
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/itsmanoharyadav96/)">
+  <a href="https://www.linkedin.com/in/itsmanoharyadav96/">
     <img 
       alt="LinkedIn" 
       title="Connect with me on LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[YOUR_GITHUB_LINK](https://github.com/itsmanoharyadav96)">
+  <a href="https://github.com/itsmanoharyadav96">
     <img 
       alt="GitHub" 
       title="Visit my GitHub Profile" 
@@ -30,14 +30,14 @@ and continuously learning modern DevOps practices.
     src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a> -->
 
-<a href="[YOUR_LEETCODE_LINK](https://leetcode.com/u/itsmanoharyadav96/)">
+<a href="https://leetcode.com/u/itsmanoharyadav96/">
   <img 
     alt="LeetCode"
     title="View my LeetCode Profile"
     src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-  <a href="[YOUR_PORTFOLIO_LINK](https://itsmanoharyadav.onrender.com/)">
+  <a href="https://itsmanoharyadav.onrender.com">
     <img 
       alt="Portfolio" 
       title="Visit my Portfolio" 
